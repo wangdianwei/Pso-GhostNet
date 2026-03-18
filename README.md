@@ -3,4 +3,4 @@ PSO-GhostNet: Lightweight CNN Discovery via Deep Particle Swarm Search and Struc
 ## Citations
 @ARTICLE{PSO-GhostNet\
   author={Dianwei Wang and Jiaqi Zhang and Jie Fang and Da AI and Jianing Tang.},\
-  title={Particle Swarm Optimization for Compact Neural Architecture Search for Image Classification}, \
+  title={PSO-GhostNet: Lightweight CNN Discovery via Deep Particle Search and Structured Redundancy-Aware Design}, \
