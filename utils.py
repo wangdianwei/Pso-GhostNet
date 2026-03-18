@@ -453,7 +453,7 @@ class Log(object):
     @classmethod
     def __get_logger(cls):
         if Log._logger is None:
-            logger = logging.getLogger("EPCNAS")
+            logger = logging.getLogger("PSO-GhostNet")
             formatter = logging.Formatter('%(asctime)s %(levelname)-8s: %(message)s')
             file_handler = logging.FileHandler("main.log")
             file_handler.setFormatter(formatter)
