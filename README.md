@@ -81,10 +81,8 @@ The framework is evaluated on:
 - MNIST-RD
 - Convex dataset
 - Self-built Crime dataset (13 classes)
-
 The Crime dataset includes categories such as:
 bloodstain, fingerprint, tire, tattoo, etc.
-
 The self-built Crime dataset is available via Baidu Netdisk:
 Link:[Baidu Netdisk]:
 Extraction code:
