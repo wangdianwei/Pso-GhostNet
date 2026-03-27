@@ -85,8 +85,8 @@ The framework is evaluated on:
 The Crime dataset includes categories such as:
 bloodstain, fingerprint, tire, tattoo, etc.
 
-**Dataset download (Baidu Netdisk):** [Baidu Netdisk Link](在这里替换成你的百度网盘链接)  
-**Extraction code:** `在这里填写提取码`
+Dataset download (Baidu Netdisk):** [Baidu Netdisk Link](在这里替换成你的百度网盘链接)  
+Extraction code:** `在这里填写提取码`
 ---
 
 
