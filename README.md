@@ -1,7 +1,8 @@
 # 🧠 PSO-GhostNet  
 Lightweight CNN Architecture Search via Deep Particle Swarm Optimization
 
-📄 Paper: *PSO-GhostNet: Lightweight CNN Discovery via Deep Particle Search and Structured Redundancy-Aware Design*
+📄 Paper: *PSO-GhostNet: Lightweight CNN Discovery via Deep Particle Search and Structured Redundancy-Aware Design*, submitted to Pattern Recognition.
+Any questions, pls contact to: wangdianwei@xupt.edu.cn
 
 ---
 
