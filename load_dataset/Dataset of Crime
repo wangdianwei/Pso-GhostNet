@@ -1,2 +1,11 @@
-crime.zip
-https://pan.baidu.com/s/1-wdG5S_7x73IrNYJo4fcdg 提取码: CIIP 
+Dataset access methods:
+
+1. From IEEE Dataport 
+   Address: https://ieee-dataport.org/documents/psoghost-crime-classification-dataset
+   Name: PsoGhost-crime-classification-dataset
+   Data type: *.npy
+
+2. From Baidu Netdisk:
+   Address: https://pan.baidu.com/s/1-wdG5S_7x73IrNYJo4fcdg 
+   Extraction code: CIIP 
+   File type: *.zip
